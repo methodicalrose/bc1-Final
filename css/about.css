@@ -1,0 +1,34 @@
+.profile {
+    width: 40%;
+}
+.about {
+    width: 60%;
+    min-height: 253px;
+    padding: 10px;
+    overflow: hidden;
+    display: block;
+    position: absolute;
+    top: 180px;
+    right: 60px;
+    color: #fff;
+}
+.profile img {
+    width: 250px;
+    height: auto;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    border: 5px solid #eee;
+    border-radius: 5%;
+}
+.about h1 {
+    font-size: 42px;
+    font-family: 'Homemade Apple', cursive;
+}
+.about h3 {
+    margin-bottom: 30px;
+    font-family: 'Covered By Your Grace', cursive;
+}
+.about p {
+    line-height: 25px;
+}

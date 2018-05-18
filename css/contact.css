@@ -1,0 +1,55 @@
+.contact section {
+    width: 50%;
+    margin-top: 165px;
+    overflow: auto;
+}
+.contact section .map {
+    width: 500px;
+    height: 200px;
+    border: 5px groove #004080;
+    display: block;
+}
+.info {
+    color: #fff;
+}
+.info div {
+    width: 65%;
+    padding: 5px;
+}
+.info div:first-child {
+    width: 35%;
+    text-align: right;
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
+.info ul {
+    margin-top: 30px;
+    list-style-type: none;
+}
+.info ul li {
+    margin-bottom: 10px;
+}
+.info ul li a {
+    color: #fff;
+}
+.info div:last-child ul li {
+    line-height: 27px;
+}
+.social h1 {
+    color: #fff;
+    font-size: 32px;
+    font-family: 'Covered By Your Grace', cursive;
+    margin-bottom: 10px;
+}
+.i-box {
+    display: inline-block;
+}
+.contact section .form {
+    display: block;
+    height: 600px;
+    width: 85%;
+    margin-left: 65px;
+    border: 5px groove #004080;
+    background-color: #ccc;
+}

@@ -22,7 +22,7 @@
 .text-centered {
     text-align: center;
 }
-/* /Helper Classes */
+/* /Helper Classes  */
 
 
 /* Header */
@@ -51,6 +51,10 @@ header::after {
     font-size: 50px;
     margin: 20px 14px;
     position: fixed;
+}
+.banner a {
+    color: #fff;
+    text-decoration: none;
 }
 nav {
     height: 50px;
